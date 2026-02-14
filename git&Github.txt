@@ -1,0 +1,37 @@
+
+Git >> version control
+
+v1
+v2
+v3
+new v4
+
+>> It is distributed on cloud
+>> collaboration
+>> Tracking Changes
+>> Recovery
+
+Git supported by - GitHub , Bitbucket, Gitlab,Gitpod
+
+>> for first time need to config GitHub in our system
+
+git config --global user.name "ankitkrrsingh3-coder"
+git config --global user.email "ankitkrr.singh3@gmail.com"
+
+# Mandatory commands
+
+>> git init
+>> git remote add origin https://github.com/ankitkrrsingh3-coder/GitDemo.git
+
+#clonning application (pull)
+>> git pull origin main
+
+# push application
+displaying all files which is not in github
+>> git status
+
+pushing all files
+>> git add .
+>> git status
+>> git commit -m "commit message"
+>> git push
