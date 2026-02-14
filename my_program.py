@@ -11,4 +11,4 @@ num1 = int(num1_str)
 num2 = int(num2_str)
 
 sum_of_numbers = num1 + num2
-print("sum is:" , sum_of_numbers)
+print("sum of two number is:" , sum_of_numbers)
