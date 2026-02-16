@@ -1,5 +1,5 @@
 """
-print("welcome to python !")
+print("welcome to python , Happy learning!")
 """
 
 print("---Simple calculator---")

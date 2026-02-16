@@ -35,3 +35,10 @@ pushing all files
 >> git status
 >> git commit -m "commit message"
 >> git push
+>> git push --set-upstream origin master
+
+create a new branch
+>> git checkout -b "branchName"
+
+switch branch
+>> git checkout "branchName"
